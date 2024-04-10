@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm currently a student, learning web development and Arduino \n
-I'm working on my web portfolio
-I have a variety of interests including, drawing, reading and playing videogames
+I'm currently a student, learning web development and Arduino <br>
+I'm working on my web portfolio <br>
+I have a variety of interests including, drawing, reading and playing videogames <br><br>
 
 Pronouns: he/him
 
