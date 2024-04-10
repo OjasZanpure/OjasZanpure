@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a student, learning web development and Arduino
+I'm currently a student, learning web development and Arduino \n
 I'm working on my web portfolio
 I have a variety of interests including, drawing, reading and playing videogames
 
