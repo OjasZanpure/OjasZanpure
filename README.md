@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm currently a student, learning web development and Arduino
+I'm working on my web portfolio
+I have a variety of interests including, drawing, reading and playing videogames
+
+Pronouns: he/him
+
+
 <!--
 **OjasZanpure/OjasZanpure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
